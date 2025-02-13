@@ -173,5 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# ignore ml-latest-small folder
-ml-latest-small/
+# ignore ml-latest-small folder and its content
+ml-latest-small/*
